@@ -16,3 +16,17 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 ### Insights & Recommendations
 
+**1. States with Higher Average PM2.5**
+
+**Insight**
+
+- States like Delhi, Jharkhand, Haryana, Himachal Pradesh, Rajasthan recorded average pm 2.5 higher in comparison to other states which particularly drives attention to be given as PM 2.5 as a pollutant has properties which can penetrate deep into the lungs and potentially enter the bloodstream and have an effect people's health.
+
+![image](image/avg_pm2.5.png)
+
+**Recommendation**
+
+- These states having higher average PM2.5 concentration data recorded gets a basis for targeted investigation and control of major known contributing source categories
+
+      
+
