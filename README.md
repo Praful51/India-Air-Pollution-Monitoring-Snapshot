@@ -16,38 +16,42 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 ### Insights & Recommendations
 
-**1. States with Higher Average PM2.5**
+**1. Cities and their respective states with Higher Average PM2.5**
 
 **Insight**
 
-- States like Haryana, Delhi, Bihar, Jharkhand, Uttar Pradesh recorded average pm 2.5 higher in comparison to other states which particularly drives attention to be given as PM 2.5 as a pollutant has properties which can penetrate deep into the lungs and potentially enter the bloodstream and have an effect people's health.
+- Cities like Bhagalpur(Bihar), Faridabad(Haryana), Khora(Uttar Pradesh), Manesar(Haryana), Khairthal(Rajasthan) recorded average pm 2.5 higher in comparison to other cities which particularly drives attention to be given as PM 2.5 as a pollutant has properties which can penetrate deep into the lungs and potentially enter the bloodstream and have an effect people's health.
+  
+- Also out of the top cities having higher PM2.5 concentration major of them belonged to one state i.e Haryana which highlights paying attention with respect to it.
 
 ![2.5](image/avg_pm2.5.png)
 
 **Recommendation**
 
-- These states having higher average PM2.5 concentration data recorded gets a basis for targeted investigation and control of major known contributing source categories.
+- These cities with their respective states having higher average PM2.5 concentration data recorded gets a basis for targeted investigation and control of major known contributing source categories.
 
-**2. States with Higher Average PM10**
+**2. Cities and their respective States with Higher Average PM10**
 
 **Insight**
 
-- States like Delhi, Jharkhand, Haryana, Himachal Pradesh, Rajasthan recorded higher average PM10 in comparison to other states and PM10 as a pollutant is commonly associated with dust generating sources such as road dust, traffic related dust resuspension, construction and demolition activities which can have an effect on people's respiratory health.
+- Cities like Palwal(Haryana), Ambala(Haryana), Bhagalpur(Bihar), Noida(Uttar Pradesh), Bhiwani(Haryana) recorded higher average PM10 in comparison to other cities and PM10 as a pollutant is commonly associated with dust generating sources such as road dust, traffic related dust resuspension, construction and demolition activities which can have an effect on people's respiratory health.
       
 ![pm10](image/avg_pm10.png)
 
 **Recommendation**
 
-- These observed concentration in these states highlights the need to investigate and control of likely dust generating sources.
+- These observed concentration in these cities and states highlights the need to investigate and control of likely dust generating sources.
 
-**3. States with Higher Average NO2**
+**3. Cities and their respective States with Higher Average NO2**
 
 **Insight**
 
-- States like Jharkhand, Delhi, Madhya Pradesh, Andhra Pradesh, Punjab had higher concentration of NO2 recorded on average than other states which is likely to be associated with urban traffic and combustion through vehicle emissions, traffic congestion, fuel combustion etc
+- Cities like Siliguri(Bengal), Dhanbad(Jharkhand), Talcher(Odisha), Jaisalmer(Rajasthan) had higher concentration of NO2 recorded on average than other cities which is likely to be associated with urban traffic and combustion through vehicle emissions, traffic congestion, fuel combustion etc
 
 ![no2](image/avg_no2.png)
 
 **Recommendation**
 
 - These locations recording higher average NO2 concentration should be prioritized for investigation of major combustion-related emission sources, particularly high-traffic corridors and nearby fuel combustion activities.
+
+
