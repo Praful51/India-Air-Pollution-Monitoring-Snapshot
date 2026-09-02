@@ -40,3 +40,14 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - These observed concentration in these states highlights the need to investigate and control of likely dust generating sources.
 
+**3. States with Higher Average NO2**
+
+**Insight**
+
+- States like Jharkhand, Delhi, Madhya Pradesh, Andhra Pradesh, Punjab had higher concentration of NO2 recorded on average than other states which is likely to be associated with urban traffic and combustion through vehicle emissions, traffic congestion, fuel combustion etc
+
+![no2](image/avg_no2.png)
+
+**Recommendation**
+
+- These locations recording higher average NO2 concentration should be prioritized for investigation of major combustion-related emission sources, particularly high-traffic corridors and nearby fuel combustion activities.
