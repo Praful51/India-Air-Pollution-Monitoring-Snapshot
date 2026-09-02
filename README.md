@@ -22,7 +22,7 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - States like Haryana, Delhi, Bihar, Jharkhand, Uttar Pradesh recorded average pm 2.5 higher in comparison to other states which particularly drives attention to be given as PM 2.5 as a pollutant has properties which can penetrate deep into the lungs and potentially enter the bloodstream and have an effect people's health.
 
-![pm2.5](image/avg_pm2.5.png)
+![2.5](image/avg_pm2.5.png)
 
 **Recommendation**
 
