@@ -26,7 +26,17 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 **Recommendation**
 
-- These states having higher average PM2.5 concentration data recorded gets a basis for targeted investigation and control of major known contributing source categories
+- These states having higher average PM2.5 concentration data recorded gets a basis for targeted investigation and control of major known contributing source categories.
 
+**2. States with Higher Average PM10**
+
+**Insight**
+
+- States like Delhi, Jharkhand, Haryana, Himachal Pradesh, Rajasthan recorded higher average PM10 in comparison to other states and PM10 as a pollutant is commonly associated with dust generating sources such as road dust, traffic related dust resuspension, construction and demolition activities which can have an effect on people's respiratory health.
       
+![pm10](image/avg_pm10.png)
+
+**Recommendation**
+
+- These observed concentration in these states highlights the need to investigate and control of likely dust generating sources.
 
