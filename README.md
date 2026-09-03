@@ -1,4 +1,4 @@
-<img width="542" height="367" alt="image" src="https://github.com/user-attachments/assets/1fe0c71d-fdb9-4ded-b474-9f68a2cf8ce7" /># India-Air-Pollution-Monitoring-Snapshot
+# India-Air-Pollution-Monitoring-Snapshot
 
 ### Project Overview
 
