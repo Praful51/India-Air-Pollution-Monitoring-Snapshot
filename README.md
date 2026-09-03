@@ -54,7 +54,7 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - These locations recording higher average NO2 concentration should be prioritized for investigation of major combustion-related emission sources, particularly high-traffic corridors and nearby fuel combustion activities.
 
-4. State wise missing data records analysis
+**4. State wise missing data records analysis**
 
 **Insight**
 
@@ -66,4 +66,18 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - These states facing this issue with more missing records should check their monitoring stations and data collection systems to identify the reasons for these gaps and improve data availability.
 
+**5. Cities with their respective States which Recorded Highest PM2.5**
 
+**Insight**
+
+- Cities like Bhagalpur(Bihar), Sasaram(Bihar), Kanpur(Uttar Pradesh) recorded highest spike of PM2.5 with 500, 500, 476 respectively which flags an attention with respect to the properties of the pollutant
+
+- Bhagalpur(Bihar) flags an investigation as higher average concentration of PM2.5 was found there and the highest spike ok the pollutant was also recorded in the same city.
+    
+![max](image/pm2.5_max.png)
+
+
+**Recommendation**
+
+- Bhagalpur should be prioritized for further investigation, with authorities checking nearby traffic, construction, industrial activity and open-burning sources to identify possible contributors to the high PM2.5 levels.
+ 
