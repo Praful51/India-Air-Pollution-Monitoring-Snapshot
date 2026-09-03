@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project demonstrates & analyses the snapshot of India's air pollution monitoring recorded particularly on 24/08/2026 11:00:00 AM. The data consisted with pollutants like PM 2.5, PM10, NH3, SO2, NO2, OZONE, CO recorded across multiple stations and cities across states of India with its maximum, minimum and average metrics recorded, This project focuses on performing region specific analysis, missing records analysis & also analysis driven with respect to properties of pollutants.
+This project analyses a snapshot of India's air pollution monitoring data recorded on 24/08/2026 at 11:00 AM. The dataset contains pollutant measurements for PM2.5, PM10, NH3, SO2, NO2, OZONE and CO across monitoring stations and cities in different states of India, along with their minimum, maximum and average recorded values. The analysis focuses on region-specific pollution patterns, monitoring station distribution, missing records, pollutant-specific observations and identification of potential pollution hotspots.
 
 ### Tech Stack
 
@@ -93,4 +93,10 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - Peaks of two pollutants getting recorded at the same city indicates that the city may warrant further investigation into local combustion and other potential emission sources.
 
+### Dashboard
 
+![db](image/air_poll_db.png)
+
+### Conclusion
+
+This project provides a snapshot of India's air pollution monitoring landscape on 24 August 2026, highlighting regional pollutant patterns, potential hotspots and monitoring data gaps. As the analysis is based on a single time snapshot, the findings represent conditions recorded at that point and should not be interpreted as long-term pollution trends.
