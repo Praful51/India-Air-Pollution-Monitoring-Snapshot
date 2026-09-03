@@ -1,4 +1,4 @@
-# India-Air-Pollution-Monitoring-Snapshot
+<img width="542" height="367" alt="image" src="https://github.com/user-attachments/assets/1fe0c71d-fdb9-4ded-b474-9f68a2cf8ce7" /># India-Air-Pollution-Monitoring-Snapshot
 
 ### Project Overview
 
@@ -53,5 +53,17 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 **Recommendation**
 
 - These locations recording higher average NO2 concentration should be prioritized for investigation of major combustion-related emission sources, particularly high-traffic corridors and nearby fuel combustion activities.
+
+4. State wise missing data records analysis
+
+**Insight**
+
+- States like Meghalaya, Jharkhand, Jammu & Kashmir, Ladakh had missed recording data higher with 43%, 29%, 29%, 29% respectively which highlights an attention to be given as out of 100% data recorded if 30-40% records are missed recording it can leave a missing gap for data in those particular places.
+
+![msg](image/missing%.png)
+
+**Recommendation**
+
+- These states facing this issue with more missing records should check their monitoring stations and data collection systems to identify the reasons for these gaps and improve data availability.
 
 
