@@ -60,7 +60,7 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 
 - States like Meghalaya, Jharkhand, Jammu & Kashmir, Ladakh had missed recording data higher with 43%, 29%, 29%, 29% respectively which highlights an attention to be given as out of 100% data recorded if 30-40% records are missed recording it can leave a missing gap for data in those particular places.
 
-![msg](image/missing%.png)
+![missing](image/missing%.png)
 
 **Recommendation**
 
