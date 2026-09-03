@@ -80,4 +80,17 @@ This project demonstrates & analyses the snapshot of India's air pollution monit
 **Recommendation**
 
 - Bhagalpur should be prioritized for further investigation, with authorities checking nearby traffic, construction, industrial activity and open-burning sources to identify possible contributors to the high PM2.5 levels.
- 
+
+**6. Spikes of Two Pollutants (NH3 & NO2) were recorded in the same location- Karwar(Karnataka)**
+
+**Insight**
+
+- Karwar(Karnataka) City itself recorded Peaks of NH3 & NO2 recorded with 104 & 271 respectively.
+
+![nh3no2](image/NH3ANDNO2.png)
+
+**Recommendation**
+
+- Peaks of two pollutants getting recorded at the same city indicates that the city may warrant further investigation into local combustion and other potential emission sources.
+
+
